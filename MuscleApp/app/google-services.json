@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "661206735472",
+    "firebase_url": "https://muscleapp-a0b1a.firebaseio.com",
+    "project_id": "muscleapp-a0b1a",
+    "storage_bucket": "muscleapp-a0b1a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:661206735472:android:97ccdd24aa888976",
+        "android_client_info": {
+          "package_name": "com.example.muscleapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "661206735472-rujb12jrm7rrav84aon16lk8gfamrri9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.muscleapp",
+            "certificate_hash": "8654cd66902b58a884f44f7b6331edf830945bd2"
+          }
+        },
+        {
+          "client_id": "661206735472-cb6o0evgfimqks31pt43pb036oe4aalc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzoE3hrfS2IxmDj29WC57PWFyVyT7ex2A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "661206735472-cb6o0evgfimqks31pt43pb036oe4aalc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

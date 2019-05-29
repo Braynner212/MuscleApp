@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MuscleApp</string>
+    <string name="btnRegister">Registrar</string>
+    <string name="btnsignIn">Ingresar</string>
+    <string name="createNewUser">Crear nuevo usuario</string>
+    <string name="email">Correo</string>
+    <string name="lastName">Apellido</string>
+    <string name="name">Nombre</string>
+    <string name="password">Contraseña</string>
+    <string name="retypePassword">Reescribir contraseña</string>
+</resources>
